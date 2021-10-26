@@ -9,3 +9,18 @@
   
   
 ![snake gif](https://github.com/ErenDub/ErenDub/blob/output/github-contribution-grid-snake.svg)
+
+  
+  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erendub&label=Profile%20views&color=0e75b6&style=flat" alt="erendub" /> </p>
+
+
+
+<h3 align="enter
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  </p>
