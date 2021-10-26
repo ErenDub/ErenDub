@@ -4,5 +4,5 @@
 <div >
 <img src="https://github-readme-stats.vercel.app/api?username=ErenDub&show_icons=true&theme=tokyonight&count_private=true" align="left" width="400px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenDub&layout=compact&theme=onedark&langs_count=15" align="right" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenDub&layout=compact&theme=onedark&langs_count=15" align="right" height="160px"/>
 <div>
