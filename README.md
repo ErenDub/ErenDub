@@ -6,4 +6,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenDub&layout=compact&theme=tokyonight&langs_count=15" align="right" height="152px"/>
 <div>
-![snake gif](https://github.com/ananidze/ananidze/blob/output/github-contribution-grid-snake.svg)
+  
+  
+![snake gif](https://github.com/ErenDub/ErenDub/blob/output/github-contribution-grid-snake.svg)
